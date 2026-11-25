@@ -2,6 +2,19 @@
 
 Explorador independiente de Bitcoin mainnet, en español, con estética de terminal y visualizaciones animadas.
 
+## Capturas reales
+
+Capturas de BTC·ORB v0.2 ejecutado en un navegador del iMac, con API de Bitcoin operativa. El esquema inicial está etiquetado como ilustrativo.
+
+### Scanner
+![Scanner de BTC·ORB](docs/screenshots/scanner.jpg)
+
+### Informe de dirección
+![Informe Bitcoin con datos públicos](docs/screenshots/report.jpg)
+
+### Radar de mempool
+![Radar de transacciones](docs/screenshots/radar.jpg)
+
 ## Funciones
 - Scanner de direcciones públicas y TXID: saldo, transacciones recientes, UTXO y comisiones.
 - Mapa animado de contrapartes observadas, con detalles de cada nodo.
